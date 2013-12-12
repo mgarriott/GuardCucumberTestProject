@@ -1,0 +1,3 @@
+[submodule "vendor/guard-cucumber"]
+	path = vendor/guard-cucumber
+	url = https://github.com/mgarriott/guard-cucumber.git
